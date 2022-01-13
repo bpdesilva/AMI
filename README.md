@@ -1,1 +1,1 @@
-# AMI - Agile Maturity Index Spot Check Queries for Jira
+# AMI - Agile Maturity Index | Spot Check Queries for Jira
