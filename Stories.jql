@@ -1,1 +1,4 @@
-Project = XYZ AND issuetype = Story
+Project = XYZ AND issuetype = Story #
+Project = XYZ AND issuetype = Story AND Created >= 2100-01-01 
+Project = XYZ AND issuetype = Story AND "Story Points" is EMPTY
+Project = XYZ AND issuetype = Story AND description is EMPTY
