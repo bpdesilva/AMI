@@ -1,6 +1,6 @@
 Project = XYZ AND issuetype = sub-task
 Project = XYZ AND issuetype = sub-task AND Created >= 2100-01-01 
-Project = XYZ AND issuetype = sub-task AND "sub-task Points" is EMPTY
+Project = XYZ AND issuetype = sub-task 
 Project = XYZ AND issuetype = sub-task AND description is EMPTY
-Project = XYZ AND issuetype = sub-task AND "Epic Link"=INT-1234
+Project = XYZ AND issuetype = sub-task
 Project = XYZ AND issuetype = sub-task AND updated < "2010/12/12"
