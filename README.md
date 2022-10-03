@@ -1,1 +1,3 @@
 # Spot Check Queries for Jira
+
+JQL stands for Jira Query Language and is the most powerful and flexible way to search for your issues in Jira. JQL is for everyone: developers, testers, agile project managers, and business users. This blog is intended to be a tutorial for those who have no experience with database queries to those who want faster access to information in Jira. So basically if you work in Jira this blog is for you.
